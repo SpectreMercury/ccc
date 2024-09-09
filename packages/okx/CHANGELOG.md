@@ -1,5 +1,14 @@
 # @ckb-ccc/okx
 
+## 0.0.14-alpha.1
+
+### Patch Changes
+
+- Updated dependencies [[`5e942f8`](https://github.com/ckb-ecofund/ccc/commit/5e942f8f1ed678abdb7ab9716f5449f0714cea53), [`e5bd2ad`](https://github.com/ckb-ecofund/ccc/commit/e5bd2ad5de4b42a22c422ecfc42056750f69b88b)]:
+  - @ckb-ccc/core@0.0.14-alpha.1
+  - @ckb-ccc/nip07@0.0.14-alpha.1
+  - @ckb-ccc/uni-sat@0.0.14-alpha.1
+
 ## 0.0.14-alpha.0
 
 ### Patch Changes

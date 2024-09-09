@@ -1,5 +1,12 @@
 # ckb-ccc
 
+## 0.0.14-alpha.1
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @ckb-ccc/ccc@0.0.14-alpha.1
+
 ## 0.0.14-alpha.0
 
 ### Patch Changes
